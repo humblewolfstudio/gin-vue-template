@@ -1,7 +1,7 @@
 package main
 
 import (
-	"awesomeProject/router"
+	"awesomeProject/server/router"
 	"embed"
 	"github.com/gin-gonic/gin"
 	"io"
